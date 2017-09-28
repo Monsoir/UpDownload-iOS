@@ -18,4 +18,9 @@
     
 1. 打开 UpDownload.xcodeproj
 
+## 开发过程记录
+
+- [原生方式请求](./memo1.md)
+- [Alamofire 方式请求](./memo2.md)
+
 
